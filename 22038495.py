@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+"""@author Muhammad S Manzoor
+    github: https://github.com/MShoaibManzoor/FDS-Assignment
+"""
 
 data = np.genfromtxt("./data5-1.csv")
 
